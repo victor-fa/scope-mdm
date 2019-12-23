@@ -72,7 +72,7 @@
     "istanbul-instrumenter-loader": "^3.0.1",
     "jest": "^22.0.4",
     "jest-serializer-vue": "^1.0.0",
-    "jquery": "^1.11.1",
+    "jquery": "^3.4.0",
     "karma": "^2.0.2",
     "karma-chrome-launcher": "^2.2.0",
     "karma-coverage": "^1.1.2",
