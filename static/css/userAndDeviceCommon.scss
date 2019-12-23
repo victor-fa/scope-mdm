@@ -1,0 +1,36 @@
+.top-commonborder {
+  // border: 1px solid #ebeef5;
+  box-sizing: border-box;
+  margin-top: 3px;
+  height: 52px;
+  background-color: #eef9f9;
+}
+
+.Group-title {
+  width: 100%;
+  text-align: center;
+}
+
+.SelectedGroup-title {
+  div {
+    margin-left: 20px;
+  }
+}
+
+.common-title {
+  padding: 13px;
+  font-size: 17px;
+  color: #303133;
+  span {
+    font-weight: bold;
+    color: #109485;
+  }
+}
+
+.el-main {
+  padding: 0;
+}
+
+.el-aside {
+  padding: 0 20px 0 0;
+}

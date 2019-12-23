@@ -1,0 +1,65 @@
+$theme_color: #379892;
+/* 模态框 */
+
+.el-dialog {
+  border-radius: 4px;
+  overflow: auto;
+}
+
+.Publiccloud-home {
+  min-height: 600px;
+}
+
+/* current position */
+
+.el-breadcrumb {
+  font-size: 12px;
+  height: 26px;
+}
+
+.postion-befor-long {
+  color: $theme_color;
+  background-color: $theme_color;
+  height: 40px;
+}
+
+.client-postion {
+  color: $theme_color;
+  padding-left: 10px;
+}
+
+/* tab */
+
+.el-tabs {
+  padding: 10px;
+  border: 1px solid #e0ebeb !important;
+}
+
+.el-tabs__item {
+  font-size: 18px;
+}
+
+.client-input {
+  width: 200px;
+}
+
+.client-buttom {
+  background: #21baa9;
+  border: solid 1px #21baa9;
+  &:hover {
+    background-color: #109485;
+    border: 1px solid #109485;
+  }
+}
+
+.icon-search {
+  margin-left: -10px;
+}
+
+/* DeviceManagement
+ order button 
+ */
+
+.order-buttom {
+  margin-top: 10px !important;
+}
