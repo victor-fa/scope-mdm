@@ -88,7 +88,7 @@
     "mocha": "^5.2.0",
     "mock-local-storage": "^1.0.5",
     "mockjs": "^1.0.1-beta3",
-    "node-notifier": "^5.1.2",
+    "node-notifier": "^8.0.1",
     "node-sass": "^4.7.2",
     "normalize.css": "^8.0.0",
     "nprogress": "^0.2.0",
